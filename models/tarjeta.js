@@ -4,7 +4,7 @@ module.exports = function(sequelize, DataTypes) {
     texto_referencia: {
       type: DataTypes.STRING,
       allowNull: false
-    }
+    },
     texto_memoria: {
       type: DataTypes.STRING,
       allowNull: false
